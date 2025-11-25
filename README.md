@@ -34,8 +34,8 @@ This was an early ML project built for learning fundamentals.
 ```bash
 movie_rating_analysis/
 ├── data/
-│ └── raw/
-│ └── data.txt # Raw dataset
+│   └── raw/
+│       └── data.txt # Raw dataset
 │
 ├── notebooks/
 │ └── analysis.ipynb # Main analysis notebook
